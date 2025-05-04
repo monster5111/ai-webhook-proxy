@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
-  "name": "ai-webhook-proxy",
+  "name": "ai-webhook",
   "upload_source_maps": true,
   "kv_namespaces": [
     {
